@@ -11,3 +11,6 @@ This project detects **facial expressions, age, and gender** in real time using 
 ## Installation 💻  
 ```bash
 pip install deepface opencv-python matplotlib
+
+
+C:\Users\LENOVO\AppData\Local\Programs\Python\Python310\python.exe main.py
